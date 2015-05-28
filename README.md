@@ -6,3 +6,5 @@ employable. We all have to start somewhere and this is a good start.
 I'm going to focus on Java and Python and Ruby on Rails projects.
 
 I have the gabeasley and gabeasley1 account.  You might see commits from both.
+
+Should be submitting correctly now.
